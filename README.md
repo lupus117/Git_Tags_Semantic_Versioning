@@ -1,4 +1,3 @@
 # Git_Tags_Semantic_Versioning
 Sten-ta18e
-This file is now ready to publish the alpha verions of the git
-2 times
+This file is now ready to publish
